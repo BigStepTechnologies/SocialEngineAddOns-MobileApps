@@ -1,7 +1,8 @@
 <!--- Provide a general summary of the issue in the Title above -->
 <!--- Before adding new issues, please, check this article https://github.com/magento/magento2/wiki/Issue-reporting-guidelines>--
 
-### Preconditions
+
+### Platform and specifications (iOS, Android, Device Name, OS version)
 <!--- Provide a more detailed information of environment you use -->
 <!--- Magento version, tag, HEAD, etc., PHP & MySQL version, etc.. -->
 1. 
@@ -19,6 +20,6 @@
 
 ### Actual result
 <!--- Tell us what happens instead -->
-1. [Screenshot, logs]
+1. 
 
 <!--- (This may be platform independent comment) -->
