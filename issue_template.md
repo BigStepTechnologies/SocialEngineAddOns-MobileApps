@@ -1,6 +1,5 @@
 ### Platform and specifications (iOS, Android, Device Name, OS version)
 <!--- Provide a more detailed information of environment you use -->
-<!--- Magento version, tag, HEAD, etc., PHP & MySQL version, etc.. -->
 1. 
 2. 
 
